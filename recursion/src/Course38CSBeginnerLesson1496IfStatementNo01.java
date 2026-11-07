@@ -1,3 +1,4 @@
+/*
 public class Course38CSBeginnerLesson1496IfStatementNo01 {
     // スコアをチェックする関数
     // Javaのif文は条件を ( ) で囲み、実行ブロックを { } で囲む
@@ -16,3 +17,4 @@ public class Course38CSBeginnerLesson1496IfStatementNo01 {
         checkPass(40); // falseのパターン
     }
 }
+*/
