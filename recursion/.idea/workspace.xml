@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0c4a5e9b-e517-46dd-878a-4bc51685b337" name="変更" comment="">
+      <change afterPath="$PROJECT_DIR$/recursion.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_2025/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_2025/CalculateCorporationTax.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_2025/CalculateGoalMoney.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_2025/CanProcessOrder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_2025/DeleteAt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_2025/DeleteAt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_2025/DistanceToOrigin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_2025/Factorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_2025/FallingDistance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_2025/GetAtLocation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_2025/GetBootstrapClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_2025/GetEmotion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_2025/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_2025/Hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_2025/HowMuchIsYourDebt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_2025/InfectedPeople.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_2025/InsertUnderscoreAt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_2025/InterestsPaid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_2025/IsLeapYear.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_2025/IsRationalNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_2025/IsSubstring.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_2025/IsThereSchool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_2025/IsValidEmail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_2025/LastFourHint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_2025/LenString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_2025/MiddleSubstring.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_2025/MyXOR.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_2025/ProcessPayment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_2025/RecursiveAddition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_2025/RedirectionUrl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_2025/ReplaceWithChar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_2025/ScreenViewMode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_2025/SimpleSummation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_2025/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_2025/Temp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_2025/ToLowerCase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_2025/ToUpperCase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_2025/VacationRental.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_2025/WhoIsWinner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_2026/01_コンピュータサイエンスの基礎/01_初級/02_プリミティブ型/08_優先順位と結合法則_02/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course38CSBeginnerLesson1496IfStatementNo01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course38CSBeginnerLesson1498Subtraction.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="3LoA6jxmuycVbeTZNRpQGSyLYmZ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "/Users/mtsm0913/repositories/java/recursion/src/Main.java",
+    "to.speed.mode.migration.done": "true",
+    "アプリケーション.Course38CSBeginnerLesson1498Subtraction.executor": "Run",
+    "アプリケーション.Main.executor": "Run",
+    "アプリケーション.Sample.executor": "Run",
+    "アプリケーション.Sample02.executor": "Run"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="デフォルトタスク">
+      <changelist id="0c4a5e9b-e517-46dd-878a-4bc51685b337" name="変更" comment="" />
+      <created>1794109875845</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1794109875845</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Sample.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
