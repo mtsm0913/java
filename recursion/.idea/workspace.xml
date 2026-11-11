@@ -25,9 +25,9 @@
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="3LoA6jxmuycVbeTZNRpQGSyLYmZ" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -50,9 +50,11 @@
     "to.speed.mode.migration.done": "true",
     "アプリケーション.Course38CSBeginnerLesson1498Subtraction.executor": "Run",
     "アプリケーション.Course38CSBeginnerLesson1499TicketPrices.executor": "Run",
+    "アプリケーション.Course38CSBeginnerLesson1500LeapYear.executor": "Run",
     "アプリケーション.Main.executor": "Run",
     "アプリケーション.Sample.executor": "Run",
-    "アプリケーション.Sample02.executor": "Run"
+    "アプリケーション.Sample02.executor": "Run",
+    "アプリケーション.Template.executor": "Run"
   }
 }]]></component>
   <component name="SharedIndexes">
