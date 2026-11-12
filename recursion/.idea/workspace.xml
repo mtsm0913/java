@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0c4a5e9b-e517-46dd-878a-4bc51685b337" name="変更" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sample02.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +52,7 @@
     "アプリケーション.Course38CSBeginnerLesson1498Subtraction.executor": "Run",
     "アプリケーション.Course38CSBeginnerLesson1499TicketPrices.executor": "Run",
     "アプリケーション.Course38CSBeginnerLesson1500LeapYear.executor": "Run",
+    "アプリケーション.Course38CSBeginnerLesson1501IsTriangle.executor": "Run",
     "アプリケーション.Main.executor": "Run",
     "アプリケーション.Sample.executor": "Run",
     "アプリケーション.Sample02.executor": "Run",
