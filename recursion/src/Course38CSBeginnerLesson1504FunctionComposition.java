@@ -1,4 +1,4 @@
-public class Course38Lesson1504FunctionComposition {
+public class Course38CSBeginnerLesson1504FunctionComposition {
     // 1. 役割：ファイルサイズ（MB）から基本の処理時間を計算（1MB = 5秒）
     static int getBaseTime(int fileSize) {
         return fileSize * 5;
