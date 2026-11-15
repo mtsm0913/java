@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c4a5e9b-e517-46dd-878a-4bc51685b337" name="変更" comment="" />
+    <list default="true" id="0c4a5e9b-e517-46dd-878a-4bc51685b337" name="変更" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +52,8 @@
     "アプリケーション.Course38CSBeginnerLesson1499TicketPrices.executor": "Run",
     "アプリケーション.Course38CSBeginnerLesson1500LeapYear.executor": "Run",
     "アプリケーション.Course38CSBeginnerLesson1501IsTriangle.executor": "Run",
+    "アプリケーション.Course38CSBeginnerLesson1502PassInterview.executor": "Run",
+    "アプリケーション.Course38CSBeginnerLesson1505FunctionDecomposition.executor": "Run",
     "アプリケーション.Course38Lesson1502PassInterview.executor": "Run",
     "アプリケーション.Course38Lesson1504FunctionComposition.executor": "Run",
     "アプリケーション.Main.executor": "Run",
