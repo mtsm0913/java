@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c4a5e9b-e517-46dd-878a-4bc51685b337" name="変更" comment="" />
+    <list default="true" id="0c4a5e9b-e517-46dd-878a-4bc51685b337" name="変更" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,34 +36,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "junie.onboarding.icon.badge.shown": "true",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "/Users/mtsm0913/repositories/java/recursion/src/Main.java",
-    "to.speed.mode.migration.done": "true",
-    "アプリケーション.Course38CSBeginnerLesson1498Subtraction.executor": "Run",
-    "アプリケーション.Course38CSBeginnerLesson1499TicketPrices.executor": "Run",
-    "アプリケーション.Course38CSBeginnerLesson1500LeapYear.executor": "Run",
-    "アプリケーション.Course38CSBeginnerLesson1501IsTriangle.executor": "Run",
-    "アプリケーション.Course38CSBeginnerLesson1502PassInterview.executor": "Run",
-    "アプリケーション.Course38CSBeginnerLesson1505FunctionDecomposition.executor": "Run",
-    "アプリケーション.Course38CSBeginnerLesson1507BoxSurfaceArea.executor": "Run",
-    "アプリケーション.Course38CSBeginnerLesson1508TotalPower.executor": "Run",
-    "アプリケーション.Course38Lesson1502PassInterview.executor": "Run",
-    "アプリケーション.Course38Lesson1504FunctionComposition.executor": "Run",
-    "アプリケーション.Main.executor": "Run",
-    "アプリケーション.Sample.executor": "Run",
-    "アプリケーション.Sample02.executor": "Run",
-    "アプリケーション.Template.executor": "Run"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/mtsm0913/repositories/java/recursion/src/Main.java&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;アプリケーション.Course38CSBeginnerLesson1498Subtraction.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.Course38CSBeginnerLesson1499TicketPrices.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.Course38CSBeginnerLesson1500LeapYear.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.Course38CSBeginnerLesson1501IsTriangle.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.Course38CSBeginnerLesson1502PassInterview.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.Course38CSBeginnerLesson1505FunctionDecomposition.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.Course38CSBeginnerLesson1507BoxSurfaceArea.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.Course38CSBeginnerLesson1508TotalPower.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.Course38CSBeginnerLesson1509ProjectQuote.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.Course38Lesson1502PassInterview.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.Course38Lesson1504FunctionComposition.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.Main.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.Sample.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.Sample02.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.Template.executor&quot;: &quot;Run&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
