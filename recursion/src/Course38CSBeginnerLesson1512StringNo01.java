@@ -1,4 +1,4 @@
-class Course38CSBeginnerLesson1512String {
+class Course38CSBeginnerLesson1512StringNo01 {
     public static void main(String[] args) {
         String s = "Hello World";
 
