@@ -1,7 +1,7 @@
 class Course38CSBeginnerLesson1525StripQuery {
     public static String stripQuery(String url) {
-        String result = "";
-        for (int i = 0; i < url.length(); i++) {
+            String result = "";
+            for (int i = 0; i < url.length(); i++) {
             if (url.charAt(i) == '?') {
                 break;
             }
